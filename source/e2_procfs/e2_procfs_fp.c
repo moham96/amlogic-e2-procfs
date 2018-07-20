@@ -22,7 +22,6 @@
 #include "e2_procfs.h"
 #include <linux/platform_device.h>
 #include <linux/amlogic/aml_rtc.h>
-//#include "../rtc/aml_rtc.c"
 
 #define RTC_GPO_COUNTER_ADDR		1
 
